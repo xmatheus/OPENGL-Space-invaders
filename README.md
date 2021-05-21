@@ -2,6 +2,13 @@
 
 Trabalho da disciplina de Introdução à computação gráfica
 
+- Texturas
+- Ilumincação
+- Atalhos do teclado
+- colisão
+- partículas
+
+
 ## Demo
 
 <p align="center">
