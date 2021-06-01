@@ -3,7 +3,7 @@
 Trabalho da disciplina de Introdução à computação gráfica
 
 - Texturas
-- Iluminacação
+- Iluminação
 - Atalhos do teclado
 - colisão
 - partículas
